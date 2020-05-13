@@ -1,0 +1,27 @@
+{
+  "name": "introduction-to-node",
+  "version": "1.0.0",
+  "description": "example for intro to nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asozyurt/introduction-to-node.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "programming"
+  ],
+  "author": "Ahmet Selcuk Ozyurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asozyurt/introduction-to-node/issues"
+  },
+  "homepage": "https://github.com/asozyurt/introduction-to-node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
