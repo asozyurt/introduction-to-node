@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/asozyurt/introduction-to-node#readme",
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.20"
   }
 }
